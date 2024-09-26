@@ -42,6 +42,12 @@ Restart the hue bridge and add it through the SN on the device
   <img src="https://github.com/user-attachments/assets/a71440ae-17dc-445d-8698-bb9aeaab0102" width="20%">
 
 
+- Other lights in the Entertainment area cannot synchronize the lighting effects.
+
+  Turn off automatic selection
+
+  <img src="https://github.com/user-attachments/assets/8b294d0f-53c4-429d-8f61-c014629c3b2b" width="20%">
+  
 
 
 
